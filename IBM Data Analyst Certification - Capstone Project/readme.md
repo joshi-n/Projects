@@ -1,4 +1,4 @@
-IBM Data Analyst Certification - Capstone Project
+**IBM Data Analyst Certification - Capstone Project**
 
 <img width="1280" alt="Screenshot 2022-02-15 at 1 24 52 PM" src="https://user-images.githubusercontent.com/82279036/154017427-567c34cb-ab8f-4f74-a076-61b52dfab5ff.png">
 
