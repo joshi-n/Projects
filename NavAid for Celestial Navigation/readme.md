@@ -9,5 +9,19 @@ For a unser input date, time & position, Navaid outputs the following-
   - GHA Aries, SHA and Stellar magnitude of stars and planets.
   - Sunrise, Sunset, Moonrise, Moonset and Twilight time of the date.
   - Next Full moon and next new moon date.
+
+Welcome Screen
  <img width="1280" alt="Welcome screen" src="https://user-images.githubusercontent.com/82279036/154008268-7b3008fe-b348-4be1-a7ec-eb4bbfd95650.png">
 
+Info screen
+<img width="1280" alt="Info" src="https://user-images.githubusercontent.com/82279036/154008605-9934e54a-822a-4941-9f9d-6c1dfef824c4.png">
+
+
+Star Finder - Daytime
+<img width="1280" alt="Daytime" src="https://user-images.githubusercontent.com/82279036/154008511-c8b44559-93d2-4a8c-aadd-95ea260f7b8d.png">
+
+Star Finder - Night time
+<img width="1280" alt="Night time" src="https://user-images.githubusercontent.com/82279036/154008558-92d8fd55-cc38-4396-ad46-3c18bf087653.png">
+
+Data tab
+<img width="1280" alt="Data tab" src="https://user-images.githubusercontent.com/82279036/154008626-955da83e-8c0a-4479-92fa-0cc8d5bb5a82.png">
