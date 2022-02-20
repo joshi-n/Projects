@@ -3,7 +3,7 @@ NavAid uses Pyephem library for astronomical calculations.
 GUI is created using PyQt5 library.
 
 NavAid calculates data for Sun, Moon, Venus, Mars, Jupiter, Saturn & 58 stars in the Nautical Almanac.
-For a unser input date, time & position, Navaid outputs the following-
+For a user input date, time & position, Navaid outputs the following-
   - Star chart to identify celestial bodies in the sky and their Azimuth (Direction) & Altitude (Height).
   - The data tab displays GHA, Azimuth, Altitude, Declination for each body.
   - GHA Aries, SHA and Stellar magnitude of stars and planets.
