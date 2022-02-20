@@ -7,7 +7,7 @@ For a user input date, time & position, Navaid outputs the following-
   - Star chart to identify celestial bodies in the sky and their Azimuth (Direction) & Altitude (Height).
   - The data tab displays GHA, Azimuth, Altitude, Declination for each body.
   - GHA Aries, SHA and Stellar magnitude of stars and planets.
-  - Sunrise, Sunset, Moonrise, Moonset, phase of the moon and Twilight time of the date.
+  - Sunrise, Sunset, Moonrise, Moonset, phase of the moon and Twilight time for that day.
   - Next Full moon and next new moon date.
 
 Welcome Screen
